@@ -15,12 +15,12 @@ A comprehensive system for predicting flood risks using sensor data, machine lea
 ## Requirements
 
 - Python 3.7+
-- Required packages: pyserial
-,flask
-,scikit-learn
-,joblib
-,firebase-admin
-,numpy
+- Required packages: pyserial,
+flask,
+scikit-learn,
+joblib,
+firebase-admin,
+numpy
 
 
 ## Hardware Setup
